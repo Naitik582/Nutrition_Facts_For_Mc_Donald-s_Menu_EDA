@@ -1,4 +1,4 @@
-**McDonald's Menu Nutrition - Exploratory Data Analysis (EDA)**
+<h1>McDonald's Menu Nutrition - Exploratory Data Analysis (EDA)</h1>
 
 **Project Overview**
 
